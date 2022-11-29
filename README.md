@@ -1,1 +1,3 @@
-# ZEA_Android_Lab6
+# Android Lab6
+
+![Screenshot](Screenshot.png)
